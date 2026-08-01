@@ -1,1 +1,1 @@
-# Instalasi-Ubuntu-VMWare
+# Instalasi-Ubuntu-Server
