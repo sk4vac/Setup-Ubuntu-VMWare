@@ -142,3 +142,7 @@ Leave it empty, we will install it later when we need it.
 <img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/398ef505-c3d9-4dcc-ba33-ce10566f89d3" />
 
 Wait until finished.
+
+### Step 15
+
+When it's Finished. Reboot Now!
