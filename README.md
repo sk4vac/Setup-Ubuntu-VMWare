@@ -145,4 +145,14 @@ Wait until finished.
 
 ### Step 15
 
-When it's Finished. Reboot Now!
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/e894e771-fd5b-45f8-8bf6-b41527395ec7" />
+
+When it's Finished. Reboot Now! Then LOG IN!
+
+## Package Installation
+
+1. run `sudo apt update`
+2. run `sudo apt upgrade`
+3. run `sudo apt autoremove`
+
+Congratulation! You just installed the base system of Ubuntu Server
