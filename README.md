@@ -49,7 +49,7 @@ Configure your VHD Size and choose `Store Virtual Disk as a Single File`
 <img width="430" height="428" alt="image" src="https://github.com/user-attachments/assets/a3523276-4c44-4ef2-8f26-70e774ed45c8" />
 
 Customize your VM Hardware
-- Minimum RAM 1.5GB
+- Minimum RAM 2GB
 - Minimum Processor 2 With 1 Core Each
 - NAT Adapter
 
